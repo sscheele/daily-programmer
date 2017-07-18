@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+321-circle-splitter.py	../321-circle-splitter.py	1;"	kind:file	line:1
+Circle	../321-circle-splitter.py	/^class Circle:$/;"	kind:class	line:24
+Point	../321-circle-splitter.py	/^class Point:$/;"	kind:class	line:6
+__init__	../321-circle-splitter.py	/^    def __init__(self, x, y):$/;"	kind:member	line:9
+__init__	../321-circle-splitter.py	/^    def __init__(self, x, y, r):$/;"	kind:member	line:27
+__repr__	../321-circle-splitter.py	/^    def __repr__(self):$/;"	kind:member	line:20
+__repr__	../321-circle-splitter.py	/^    def __repr__(self):$/;"	kind:member	line:44
+cluster	../321-circle-splitter.py	/^def cluster(points):$/;"	kind:function	line:48
+contains_point	../321-circle-splitter.py	/^    def contains_point(self, p):$/;"	kind:member	line:32
+distance_to	../321-circle-splitter.py	/^    def distance_to(self, p):$/;"	kind:member	line:14
+main	../321-circle-splitter.py	/^def main():$/;"	kind:function	line:95
+num_within	../321-circle-splitter.py	/^    def num_within(self, pts):$/;"	kind:member	line:36
+pprint	../321-circle-splitter.py	/^    from pprint import pprint$/;"	kind:namespace	line:114
+random	../321-circle-splitter.py	/^from random import random$/;"	kind:namespace	line:3
+solve	../321-circle-splitter.py	/^def solve(points):$/;"	kind:function	line:84
+sq_distance_to	../321-circle-splitter.py	/^    def sq_distance_to(self, p):$/;"	kind:member	line:17
+sqrt	../321-circle-splitter.py	/^from math import sqrt$/;"	kind:namespace	line:2
+test	../321-circle-splitter.py	/^def test(num):$/;"	kind:function	line:107
